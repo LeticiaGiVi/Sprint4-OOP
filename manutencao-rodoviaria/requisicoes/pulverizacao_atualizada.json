@@ -1,0 +1,9 @@
+{
+  "tipo": "PULVERIZACAO",
+  "dataExecucao": "2026-10-24",
+  "operador": "Carlos Silva",
+  "tipoProduto": "Herbicida Y",
+  "pressao": 4.0,
+  "vazao": 15.0,
+  "tipoBico": "Cone"
+}

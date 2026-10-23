@@ -1,0 +1,9 @@
+{
+  "tipo": "PULVERIZACAO",
+  "dataExecucao": "2026-10-23",
+  "operador": "Carlos",
+  "tipoProduto": "Herbicida X",
+  "pressao": 3.5,
+  "vazao": 12.0,
+  "tipoBico": "Leque"
+}
